@@ -7,11 +7,6 @@ body {
     background-color: rgb(253, 251, 251);
 }
 
-#minha_foto{
-    width: 150px;
-    border-radius: 20px;
-}
-
 #cabecalho {
     background-color: yellow;
     position: fixed;
@@ -19,3 +14,10 @@ body {
     width: 100%;
     height: 60px;  
 }
+
+#minha_foto{
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 60px;    
+}
+
