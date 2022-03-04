@@ -22,8 +22,7 @@ body {
 }
 
 #licoes_titulo {
-  text-align: center;
-  
+  text-align: center;  
 }
 
 .lado-esquerdo {
@@ -36,7 +35,7 @@ body {
   padding: 10px 40px;
 }
 
-.lado-direito{
+.lado-direito {
   margin-left: 700px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 30px;
@@ -44,4 +43,13 @@ body {
   width: 200px;
   padding: 10px 40px;
   margin-top: -350px; 
+}
+
+.barra_lateral{
+  width: 200px;
+  background-color: aliceblue;
+  margin-left: 80%;
+  margin-bottom: 20px;
+  padding: 20px;
+  
 }
