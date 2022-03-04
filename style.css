@@ -1,23 +1,47 @@
 * {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-    background-color: yellow;
-    position: fixed;
-    top: 0px;
-    width: 100%;
-    height: 60px;  
+  background-color: yellow;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 60px;  
 }
 
-#minha_foto{
-    width: 150px;
-    border-radius: 20px;
-    margin-top: 60px;    
+#minha_foto {
+  width: 150px;
+  border-radius: 20px;
+  margin-top: 60px;
 }
 
+#licoes_titulo {
+  text-align: center;
+  
+}
+
+.lado-esquerdo {
+  margin-top: 30px;
+  margin-left: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 30px;
+  background-color: antiquewhite;
+  width: 200px;
+  padding: 10px 40px;
+}
+
+.lado-direito{
+  margin-left: 700px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 30px;
+  background-color: antiquewhite;
+  width: 200px;
+  padding: 10px 40px;
+  margin-top: -350px; 
+}
